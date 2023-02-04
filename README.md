@@ -1,0 +1,2 @@
+# VostrokAllocator
+Vostrok Allocator Library
